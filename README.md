@@ -33,14 +33,26 @@ Attack speed
 Amount
 Curse
 
-# idea:
+idea:
 Player stat for the necro like Spirit. This stat makes his summons stronger
+Luck stat for finding rare items
 
 # Enemies
 
 
 # Upgrades
+## idea:
+### HP, Mana, Attack speed, movement speed, piercing for ranged, Spirit (for the Necro and King, if you add this), Defence, Luck (a stat that boosts chance for finding rare items), Upgrade to keep your currency when you die, Revive?, Magic dmg, Physical dmg, More gold, More summon slots
 
+## crazy idea:
+### one shot bosses, chance to cure curse, chance for blessings (like a 0.1% chance that you get a blessed item which stats are just boosted) 
+
+# Items
+## idea:
+### HP, Mana, Spirit, Attack speed, Movespeed, Luck, DMG types, Element type?, Summon slots, More gold
+
+## cursed stats:
+### HP, Mana, Spirit, Attack speed, Movespeed, Luck, DMG types, Summon slots, Less gold
 
 # Currency
 
