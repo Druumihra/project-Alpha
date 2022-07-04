@@ -10,6 +10,8 @@ Visual are intended to be pixel art.
 ## Theme: Medieval Europe
 
 ## Gameplay loop
+### Player Village?
+function as player hub where upgrades can be purchased and spend skillpoints. *Further deliberation required
 
 
 ## Classes
@@ -23,8 +25,8 @@ Possibility of subclasses????
 ### King: Multi character class?
 ### Assassin:
 ### Necromancer: 
-Possibilty 1: Has built in slot system where it gets more slots with lvl/upgrades. It can then reanimate dead corpses for a cost of slots which will fight for him and are slightly stronger than enemy counterparts
-Possibility 2: Can find dead heroes around the level which he can reanimate. Dead characters from older runs?
+#### Possibilty 1: Has built in slot system where it gets more slots with lvl/upgrades. It can then reanimate dead corpses for a cost of slots which will fight for him and are slightly stronger than enemy counterparts
+#### Possibility 2: Can find dead heroes around the level which he can reanimate. Dead characters from older runs?
 
 
 ## Player Stats
@@ -37,6 +39,7 @@ Defense,
 Attack speed,
 Amount,
 Curse,
+Luck, 
 
 
 
@@ -44,10 +47,17 @@ Curse,
 Bandit, Bandit archer, Bandit leader, Goblin, Goblin Shaman, Ogre, Goblin Cheiftan, 
 
 ## Upgrades
+### Perks
 
+### Items
+
+### Item Set bonuses 
+
+### Weapons
 
 ## Currency
 Gold,
 Aetherian Ingots,
+Blood (demonic/cursed upgrade tree), 
 
 
