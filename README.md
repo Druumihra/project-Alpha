@@ -13,7 +13,7 @@ Visual are intended to be pixel art.
 
 
 # Classes:
-Knight:
+Knight: Basic melee class 
 Mage:
 Sorcerer:
 Cleric:
@@ -21,8 +21,10 @@ Cavalry:
 Archer:
 King:
 Assassin:
-Necromancer:
-
+Necromancer: 
+Possibilty 1: Has built in slot system where it gets more slots with lvl/upgrades. It can then reanimate dead corpses for a cost of slots which will fight for him and are slightly stronger than enemy counterparts
+Possibility 2: Can find dead heroes around the level which he can reanimate. Dead characters from older runs?
+Healer:???
 
 # Player Stats:
 HP
@@ -36,12 +38,13 @@ Curse
 
 
 # Enemies
-
+Bandit, Bandit archer, Bandit leader, Goblin, Goblin Shaman, Ogre, Goblin Cheiftan, 
 
 # Upgrades
 
 
 # Currency
+Gold
+Aetherian Ingots
 
 
-#
