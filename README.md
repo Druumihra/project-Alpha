@@ -61,6 +61,9 @@ Luck,
 Bandit, Bandit archer, Bandit leader, Goblin, Goblin Shaman, Ogre, Goblin Cheiftan, 
 
 ## Upgrades
+Comes in different rareties from:
+Common (Grey), Uncommon (Green), Rare (Blue), Epic (Purple), Legendary (Orange), Mythic (Red), Immortal (Silver), Deity (Gold).
+Miscenllaneous (White) 
 ### Perks
 
 ### Items
@@ -75,3 +78,8 @@ Aetherian Ingots,
 Blood (demonic/cursed upgrade tree), 
 
 
+
+
+## Custom Items
+### Glitched Scythe
+Should have the ability to corrupt enemies and "glitch them". Other effects TBD (Shinigama)
