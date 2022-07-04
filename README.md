@@ -33,7 +33,8 @@ Attack speed
 Amount
 Curse
 
-
+# idea:
+Player stat for the necro like Spirit. This stat makes his summons stronger
 
 # Enemies
 
