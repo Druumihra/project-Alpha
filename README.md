@@ -11,7 +11,7 @@ Visual are intended to be pixel art.
 
 ## Gameplay loop
 ### Player Village?
-function as player hub where upgrades can be purchased and spend skillpoints. *Further deliberation required
+function as player hub where upgrades can be purchased and spend skillpoints. *Further deliberation required*
 
 
 ## Classes
