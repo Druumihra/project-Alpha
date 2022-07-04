@@ -44,6 +44,7 @@ function as player hub where upgrades can be purchased and spend skillpoints. *F
 
 
 ## Player Stats
+### Global
 HP,
 HP Regen,
 Mana/energy stat,
@@ -54,7 +55,13 @@ Attack speed,
 Amount,
 Curse,
 Luck, 
-
+Absolute Defense,
+Magic Resist,
+### Class Specific
+Dexterity,
+Strength,
+Piety,
+Resentment
 
 
 ## Enemies
@@ -67,7 +74,9 @@ Miscenllaneous (White)
 ### Perks
 
 ### Items
-
+#### Common:
+##### Knight's Helm
+ + 15 HP, + 2 Defense
 ### Item Set bonuses 
 
 ### Weapons
