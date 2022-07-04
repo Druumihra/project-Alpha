@@ -10,23 +10,37 @@ Visual are intended to be pixel art.
 ## Theme: Medieval Europe
 
 ## Gameplay loop
+### Dungeon Crawling? Procedural open world?
+Maybe a mix of both? 
 ### Player Village?
 function as player hub where upgrades can be purchased and spend skillpoints. *Further deliberation required*
 
 
 ## Classes
-Possibility of subclasses????  
-### Knight: Basic melee class 
+
+### Knight: 
+#### Possible Subclasses:
+##### Swordsman????
+##### Paladin????
 ### Mage:
+#### Possible Subclasses:
 ### Sorcerer:
-### Cleric: holy powers, (healer subclass if multiplayer?)
+#### Possible Subclasses:
+### Cleric: holy powers
+#### Possible Subclasses:
+##### Priest??? (healer)
 ### Cavalry:
+#### Possible Subclasses:
 ### Archer:
+#### Possible Subclasses:
 ### King: Multi character class?
+#### Possible Subclasses:
 ### Assassin:
-### Necromancer: 
-#### Possibilty 1: Has built in slot system where it gets more slots with lvl/upgrades. It can then reanimate dead corpses for a cost of slots which will fight for him and are slightly stronger than enemy counterparts
-#### Possibility 2: Can find dead heroes around the level which he can reanimate. Dead characters from older runs?
+#### Possible Subclasses:
+### Necromancer:
+#### Possible Subclasses:
+##### Possibilty 1: Has built in slot system where it gets more slots with lvl/upgrades. It can then reanimate dead corpses for a cost of slots which will fight for him and are slightly stronger than enemy counterparts
+##### Possibility 2: Can find dead heroes around the level which he can reanimate. Dead characters from older runs?
 
 
 ## Player Stats
